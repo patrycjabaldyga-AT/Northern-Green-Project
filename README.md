@@ -1,4 +1,4 @@
-# Northern Green Vision
+# Northern Green
 
 ## Quick Start
 
